@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Halid DUMAN;
 - 👀 I’m interested in pc application development;
-- 🌱 I’m currently learning c programming language;
-- 💞️ I’m looking to collaborate on c ( for now :} );
+- 🌱 I’m currently learning web programming (html,css,javascript);
+- 💞️ I’m looking to collaborate on python and c family ( for now :} );
 - 📫 How to reach me --> 5hali6duman@gmail.com;
 
 <!---
